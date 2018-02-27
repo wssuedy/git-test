@@ -1,2 +1,3 @@
 console.log("b");
-require("./b2");
+
+aaaaa
