@@ -1,12 +1,4 @@
-console.log("b");
-aaaaa
-require("./b2");
-1
+test
+test
+test
 2
-3
-4
-45
-6
-
-
-bbbbb;
