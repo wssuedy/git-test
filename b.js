@@ -1,3 +1,4 @@
+我是宝宝
 console.log("b");
 aaaaa
 require("./b2");
